@@ -1,0 +1,9 @@
+#name#To Kill a Mockingbird#/name##author#Harper Lee#/author##year#1960#/year##page_numbers#700#/page_numbers#
+#name#1984#/name##author#George Orwell #/author##year#1963#/year##page_numbers#400#/page_numbers#
+#name#Animal Farm#/name##author#George Orwell#/author##year#1966#/year##page_numbers#460#/page_numbers#
+#name#Catch-22 (Catch-22, #1)#/name##author# Joseph Heller#/author##year#1976#/year##page_numbers#1060#/page_numbers#
+#name#Lord of the Flies#/name##author#William Golding#/author##year#1977#/year##page_numbers#550#/page_numbers#
+#name#The Grapes of Wrath#/name##author# John Steinbeck #/author##year#1977#/year##page_numbers#550#/page_numbers#
+#name#The Catcher in the Rye#/name##author#J.D. Salinger#/author##year#1983#/year##page_numbers#510#/page_numbers#
+#name#The Great Gatsby#/name##author#F. Scott Fitzgerald#/author##year#1993#/year##page_numbers#310#/page_numbers#
+#name#The Lord of the Rings (The Lord of the Rings, #1-3)#/name##author#J.R.R. Tolkien#/author##year#1963#/year##page_numbers#1216#/page_numbers#
